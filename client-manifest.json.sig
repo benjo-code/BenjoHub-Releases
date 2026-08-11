@@ -1,1 +1,1 @@
-{"keyId":"client-1","signature":"hXygNP4rGqU1yi9tN/TPaxkZpNTyFx8orgtKXoJLAVN8hLCrGxr2UJ5hVKmhiJRKj0EI5RZ0L0epCt1WB7RcCQ=="}
+{"keyId":"client-1","signature":"cn\u002BhargNPvkVXfWQhh4zVAF91LqFgjJT2WvBhJFwzaphHeUOP\u002BQOhJB0oyavXh2tc04AadaFeu4q57UgCkwzAQ=="}
